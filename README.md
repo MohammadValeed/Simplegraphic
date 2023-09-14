@@ -1,2 +1,2 @@
 # Simplegraphic
-A simple graphic using turtle
+A colourful simple graphic using turtle
